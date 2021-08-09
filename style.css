@@ -29,6 +29,7 @@ body {
   justify-self: center;
 }
 #image {
+  display: block;
   width: 100%;
   max-width: 220px;
   margin: auto;
